@@ -622,9 +622,10 @@
             </div>
             <div class="hero-actions">
                 <!-- CV DOWNLOAD BUTTON - Google Drive link -->
-                <a href="https://drive.google.com/your-share-link" class="btn btn-primary" target="_blank">
-                    <i class="fas fa-file-pdf"></i> Download CV
-                </a>
+                <a href="https://andualemguchigezahegn.github.io/Andualem_guchi's_Afriwork_CV.pdf" class="btn btn-primary" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download CV
+</a>
+
                 <a href="#contact" class="btn btn-cta"><i class="fas fa-paper-plane"></i> Hire me</a>
                 <a href="https://t.me/Andualem_digital" target="_blank" class="btn btn-outline"><i class="fab fa-telegram"></i> Telegram</a>
             </div>
