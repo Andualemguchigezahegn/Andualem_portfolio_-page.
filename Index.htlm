@@ -621,7 +621,8 @@
                 <i class="fas fa-map-pin"></i> Addis Ababa, Ethiopia · <i class="fas fa-globe"></i> Global reach
             </div>
             <div class="hero-actions">
-                <!-- CV DOWNLOAD BUTTON - Google Drive link -->
+                 <!-- CV DOWNLOAD BUTTON - GitHub link -->
+
                 <a href="https://andualemguchigezahegn.github.io/Andualem_guchi's_Afriwork_CV.pdf" class="btn btn-primary" target="_blank">
     <i class="fas fa-file-pdf"></i> Download CV
 </a>
