@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+9<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -613,12 +613,11 @@
             </div>
         </div>
 
-        <!-- ===== HERO ===== -->
 <div class="hero">
     <h2><i class="fas fa-rocket"></i> Code · Design · Localize</h2>
     <p>From Python automation to mobile UI and bilingual content — helping businesses connect with Ethiopian and global audiences.</p>
     <div class="location">
-        <i class="fas fa-map-pin"></i> gelemso,west harergea, Ethiopia · <i class="fas fa-globe"></i> Global reach
+        <i class="fas fa-map-pin"></i> Addis Ababa, Ethiopia · <i class="fas fa-globe"></i> Global reach
     </div>
     <div class="hero-actions">
         <!-- CV DOWNLOAD BUTTON - Google Drive -->
